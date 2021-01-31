@@ -59,8 +59,9 @@
 		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>bootstrap</artifactId>
-			<version>4.5.3</version>
+			<version>4.3.1</version>
 		</dependency>
+
 		<!-- needed for bootstrap to be able to use it -->
 		<dependency>
 			<groupId>org.webjars</groupId>
